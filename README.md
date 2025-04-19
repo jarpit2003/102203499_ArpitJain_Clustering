@@ -1,4 +1,4 @@
-# 102203191_ArpitJain_Clustering
+# 102203499_ArpitJain_Clustering
 # Comparitive performance study of different clustering algorithms using different pre-processing techniques with different numbers of clusters on different evaluation parameters
 Overview - This project presents a comparative analysis of different clustering algorithms using various preprocessing techniques and cluster numbers, evaluated across several performance metrics. The Iris dataset from the UCI Machine Learning Repository is used as the benchmark. The study aims to highlight how preprocessing and algorithm choice impact clustering quality. Dataset: Iris
 
